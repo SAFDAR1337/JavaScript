@@ -108,3 +108,4 @@ console.log(Number("123abc"));     // Output: NaN
 // Resources:
 // https://github.com/SAFDAR1337/JavaScript/blob/main/DataTypes/ParseFloat.md
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc  little bit study of this
