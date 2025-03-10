@@ -13,10 +13,13 @@
 // console.log(myarr1 instanceof Array)
 // console.log(myarr1 instanceof Object)
 // let make new arry to test length property 
-// const myarr1 = ["Apple","Banana","Mango"];
+
 // console.log(myarr1)
 // console.log(myarr1.length)
 // myarr1.length=2;
 // console.log(myarr1);  Array lenght property can be modified // 
-let myarr1 =[123,"Safdar",{mykey:"myobjpoint"},["Team1","Team2","Team3"]];
-console.log(myarr1[3]instanceof Object);
+// let myarr1 =[123,"Safdar",{mykey:"myobjpoint"},["Team1","Team2","Team3"]];
+// console.log(myarr1[3]instanceof Object);
+const myarr1 = ["Apple","Banana","Mango"];
+console.log(myarr1);
+console.log(typeof Array.prototype);
